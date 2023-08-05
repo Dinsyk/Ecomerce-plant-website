@@ -1,0 +1,37 @@
+.location{
+    font-size: 25px;
+    color: green;
+}
+.visit-div{
+    display: flex;
+    justify-content: flex-start;
+}
+.visit-address{
+    font-weight: 700;
+}
+.phone{
+    font-size: 25px;
+    color: green;
+}
+.call-div{
+    display: flex;
+    justify-content: flex-start;
+}
+.phonenumber{
+    font-weight: 700; 
+}
+.email-div{
+    display: flex;
+    justify-content: flex-start;
+}
+.emailid{
+    font-weight: 700;
+}
+.email{
+    font-size: 25px;
+    color: green;
+}
+.insta{
+    font-size: 25px;
+    color: green; 
+}

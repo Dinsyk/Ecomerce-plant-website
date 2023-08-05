@@ -1,0 +1,30 @@
+.plant-container{
+    background-color: #e1e3e6;
+}
+.mainplant-container{
+    background-color: white;
+    border: 1px solid  #e1e3e6;
+}
+.sortcol{
+    display: flex;
+    justify-content: flex-end;
+}
+.cardbody-secondrow{
+    display: flex;
+    justify-content: flex-end;
+}
+.cart-icon{
+    color: rgba(0, 128, 0, 0.832);
+    font-size: 25px;
+}
+.cardbody-thirdrow{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-button{
+    border:none;
+    background-color: white;
+}
+.cart-button:hover{
+    background-color: greenyellow;
+}

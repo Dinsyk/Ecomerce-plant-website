@@ -1,0 +1,25 @@
+.instagram{
+    font-size: 30px;
+    color: #e1e6e2;
+}
+.facebook{
+    font-size: 30px;
+    color: #e1e6e2;
+}
+.twiter{
+    font-size: 30px;
+    color: #e1e6e2;
+}
+.empty-secondcol{
+display: flex;
+justify-content:space-between;
+}
+.footer-container{
+    background-color:#6b6a68;
+}
+.copyright{
+    color:  #e1e6e2;
+}
+.footer-container{
+    height: 30vh;
+}

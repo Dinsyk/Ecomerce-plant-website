@@ -1,0 +1,41 @@
+.login-container{
+    background-color: #edf0ee;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box{
+  
+    border: 1px solid black;
+    width: 240px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username-box{
+    border: 1px solid black;
+    width: 95%;
+    height: 5%;
+}
+.password-box{
+    border: 1px solid black;
+    width: 95%;
+    height: 5%;
+}
+.button-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.goto{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+
+}

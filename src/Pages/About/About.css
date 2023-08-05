@@ -1,0 +1,8 @@
+.about-head{
+    font-size: 70px;
+}
+.line{
+    display: inline-block;
+    border:  1px solid black;
+    width: 10%;
+}

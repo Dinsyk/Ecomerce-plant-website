@@ -1,0 +1,30 @@
+/* .cart-container{
+    background-color:  #e1e3e6;
+} */
+.cartbox-container{
+    background-color: white;
+}
+table{
+    width: 100%;
+}
+th ,td {
+    border: 1px solid black;
+}
+.firsttr{
+    background-color:#e1e3e6 ;
+}
+
+.cartbox-firstrow{
+    background-color: #e1e3e6;
+}
+.cart-plantimage{
+    width: 40%;
+    height: 80%;
+}
+.headings{
+    color: white;
+}
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}

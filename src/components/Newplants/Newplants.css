@@ -1,0 +1,19 @@
+.viewall-button{
+    background-color: lightgreen;
+    border: 1px solid lawngreen;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.viewall-button:hover{
+    background-color: red;
+}
+.plant-name{
+    font-weight: 700;
+}
+.plant-description{
+    color: #8a8986;
+}
+.plant-price{
+    font-weight: bolder;
+}

@@ -1,0 +1,35 @@
+.key{
+    font-size: 50px;
+    color: white;
+   color:darkgreen;
+    
+}
+.pecularity-firstcol{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.truck{
+    font-size: 50px;
+    color: white;
+   color: darkgreen;
+    
+}
+.pecularity-secondcol{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.heart{
+    font-size: 50px;
+    color: white;
+   color: darkgreen;
+    
+}
+.pecularity-thirdcol{
+display: flex;
+align-items: center;
+justify-content: center;
+}
